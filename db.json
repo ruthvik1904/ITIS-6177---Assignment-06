@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100,
+      "author": "Ruthvik Madavaram"
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200,
+      "author": "Sai Dheeraj Lanka"
+    },
+    {
+      "id": "08fe",
+      "title": "It ends with us",
+      "author": "Colleen Hoover"
+    },
+    {
+      "id": "7fde",
+      "title": "Harry Potter",
+      "author": "J.K. Rowling"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
